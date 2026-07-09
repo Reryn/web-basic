@@ -1,14 +1,14 @@
 <html>
-<head>
-<title>성일 쇼핑몰</title>
-</head>
-<body>
+    <head>
+    <title>성일 쇼핑몰</title>
+    </head>
+    <body>
 <h1>성일 쇼핑몰에 오신 것을 환영합니다
 <hr>
 <h2>원하는 메뉴를 선택하세요</h2>
-<ul>
-<li><a>회원 정보</a></li>
-<li><a>햄버거 주문하기</a></li>
-</ul>
-</body>
+        <ul>
+            <li><a href="info.html">회원 정보</a></li>
+            <li><a href="order.html">햄버거 주문하기</a></li>
+        </ul>
+    </body>
 </html>
